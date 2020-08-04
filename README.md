@@ -1,4 +1,4 @@
-# RISCV-on-Microsemi-FPGA-Archive
+# Mi-V FPGA
 ## Description
   The links within this readme link back to the RISCV-on-Microsemi-FPGA organisation. These repositories are marked as achieved and will not be maintained on the RISCV-On-Microsemi-FPGA organisation. A selection of projects have been moved to <insert orgnaisation/repository name here>. 
   
